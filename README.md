@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MuzhiMoussE/MuzhiMoussE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+此漏勺正在一边刷题一边遗忘中......
+
+![](https://stats.justsong.cn/api/leetcode?username=zhang-xinmu&cn=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzhimousse)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=muzhimousse)
+
+
