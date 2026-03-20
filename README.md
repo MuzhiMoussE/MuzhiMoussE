@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-此漏勺正在一边刷题一边遗忘中......
+好饿啊，去浏览器搞点cookie吃
 
 ![](https://stats.justsong.cn/api/leetcode?username=zhang-xinmu&cn=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=muzhimousse)
-
 
