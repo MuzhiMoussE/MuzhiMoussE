@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![](https://stats.justsong.cn/api/leetcode?username=zhang-xinmu&cn=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzhimousse)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=muzhimousse)
 
 
